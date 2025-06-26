@@ -1,2 +1,2 @@
 # Python-fragments
-A growing collection of Python features and experiments — everything I learn, try, and build, pushed here for future use and exploration.
+Welcome to my WebDev Fragments! Here I’ll be pushing new features and experiments as I learn them — a personal space to explore, test, and build.
