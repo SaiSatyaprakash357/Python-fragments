@@ -1,3 +1,8 @@
+# This program detects a hand gesture sequence representing a 3-2-1-0 finger countdown using OpenCV and cvzone.
+# Upon completion, it displays "OYASUMI"(Good Night) for 2 seconds
+# and then automatically closes Visual Studio Code.
+
+
 from cvzone.HandTrackingModule import HandDetector
 from cvzone.Utils import putTextRect
 import cv2
